@@ -8,9 +8,11 @@ How is this different from the express 4 generator ?
 (This doesnt use any templating engine) 
 
 
-Just clone this repo
-do  npm install
-do npm start
+1.Just clone this repo
+
+2.do  npm install 
+
+3.do npm start
 
 
 
